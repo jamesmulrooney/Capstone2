@@ -1,0 +1,130 @@
+/* styles.css */
+body {
+    
+    justify-content: center;
+    align-items: center;
+    
+    margin: 0;
+   
+}   
+
+section {
+
+   
+    justify-content: center;
+    align-items: center;
+    
+    margin-bottom: 40px;
+    margin-top: 40px;
+    
+
+}
+
+h1{
+    color: #545454;
+    font-family: Helvetica, sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 80px;
+}
+
+h2{
+    color: #545454;
+    font-family: Helvetica, sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 80px;
+}
+
+p{
+    color: #545454;
+    font-family: Helvetica, sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    
+}
+
+
+header{
+    color: white;
+    font-family: Helvetica, sans-serif;
+    
+    text-align: center;
+    padding: 30px;
+    
+}
+
+img {
+    
+    justify-content: center;
+    display:flex;
+    height: 140px;
+    margin: 0 auto;
+    align-items: center;
+    border-radius: 50px;
+}
+
+.top{
+    max-height: 280px;
+    background-color:#163853;
+    padding: 50px;
+    
+}   
+
+.photo{
+    background-color: white;
+    
+    max-width: 100%;
+}
+
+.footer{
+    background-color: #163853;
+    
+    max-width: 100%;
+    color: #FEEC37;
+    font-family: Helvetica, sans-serif;
+    font-size: 1rem;
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
+
+.fancy-font{
+
+    color: white;
+    font-family: "Sacramento", cursive;
+    font-size: 4.5rem;
+}
+
+.ordinary-font{
+    color: white;
+    font-family: "Arial";
+    font-size: 2.5rem;
+}
+
+
+.btn{
+    background-color: #163853;
+    color: #FEEC37;
+    display: flex;
+    margin: 0 auto;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    max-width: 120px;
+    border-radius: 10px;
+    margin-top: 40px;
+}
+
+.link{
+    color: #FEEC37;
+    padding: 20px;
+}
+
